@@ -9,7 +9,7 @@ spec:
         - metricMethodRef:
             systemName: hits
           period: day
-          value: 30
+          value: 50
       name: Basic
     plan_unlimited:
       name: Unlimited
